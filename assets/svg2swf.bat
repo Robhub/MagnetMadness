@@ -1,0 +1,1 @@
+for %%x in (*.svg) do ..\svg2swf\svg2swf.exe %%x swf/%%x.swf
